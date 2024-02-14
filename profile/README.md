@@ -65,11 +65,11 @@ Welcome to **PluralityCN**, the Chinese Plurality Community. We are a community 
 如果您想要了解更多关于我们的社群和项目的信息，您可以访问我们的静态网站或通过电子邮件联系我们。
 
 - [访问我们的静态网站](https://www.pluralitycn.wiki)
-- 通过电子邮件联系我们：[pluralitycn@163.com](mailto:pluralitycn@163.com)
+- 通过电子邮件联系我们：[admin@pluralitycn.wiki](mailto:admin@pluralitycn.wiki)或[pluralitycn@163.com](mailto:pluralitycn@163.com)
 
 ## Learn More
 
 If you would like to learn more about our community and projects, you can visit our static websites or contact us via email.
 
 - [Visit our static websites](https://www.pluralitycn.wiki)
-- Contact us via email: [pluralitycn@163.com](mailto:pluralitycn@163.com)
+- Contact us via email: [admin@pluralitycn.wiki](mailto:admin@pluralitycn.wiki) or [pluralitycn@163.com](mailto:pluralitycn@163.com)
