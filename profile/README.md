@@ -1,4 +1,13 @@
-# PluralityCN 中文多意识体社群
+<!--<center>!-->
+  <h1 align="center">中文多意识体社群（PluralityCN）</h1>
+  <image title="组织Logo" src="https://avatars.githubusercontent.com/u/140780823?s=200&v=4" width="150px" style="margin: 0 auto;"></image>
+<!--</center>!-->
+
+<!--<center>!-->
+  <p align="center"><a href="./README_en.md">English</a> | <a href="https://guide.plura.wiki">社群导航</a> | <a href="https://all-in-one.plura.wiki">多合一网站</a></p>
+<!--</center>!-->
+
+---
 
 欢迎来到[**中文多意识体社群**](https://all-in-one.plura.wiki)（PluralityCN），我们是一个旨在为多意识体和多重人格领域提供信息和资源的社群。我们的组织致力于推动多意识体领域的理解和支持。
 
