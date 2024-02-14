@@ -1,7 +1,7 @@
-<!--<center>!-->
-  <h1 align="center">中文多意识体社群（PluralityCN）</h1>
-  <image title="组织Logo" src="https://avatars.githubusercontent.com/u/140780823?s=200&v=4" width="150px" style="margin: 0 auto;"></image>
-<!--</center>!-->
+<div align=center>
+  <img width=160 src="https://avatars.githubusercontent.com/u/140780823?s=200&v=4"  alt="PluralityCN Logo"/>
+  <h1 align="center">中文多意识体社群（PluralityCN）</h1> 
+</div>
 
 <!--<center>!-->
   <p align="center"><a href="./README_en.md">English</a> | <a href="https://guide.plura.wiki">社群导航</a> | <a href="https://all-in-one.plura.wiki">多合一网站</a></p>
