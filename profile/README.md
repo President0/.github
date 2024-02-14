@@ -11,8 +11,6 @@
 
 欢迎来到[**中文多意识体社群**](https://all-in-one.plura.wiki)（PluralityCN），我们是一个旨在为多意识体和多重人格领域提供信息和资源的社群。我们的组织致力于推动多意识体领域的理解和支持。
 
-Welcome to **PluralityCN**, a organization which aims to provide information and resources for the fields of diversity and multiple personalities. Our organization is committed to promoting understanding and support in the field of diversity.
-
 ---
 
 ## 我们的特色
