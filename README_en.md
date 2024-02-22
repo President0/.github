@@ -4,7 +4,7 @@
 </div>
 
 <!--<center>!-->
-  <p align="center"><a href="./README.md">简体中文</a> | <a href="https://guide.plura.wiki">Community Guide</a> | <a href="https://all-in-one.plura.wiki">All-in-One Website</a></p>
+  <p align="center"><a href="./profile/README.md">简体中文</a> | <a href="https://guide.plura.wiki">Community Guide</a> | <a href="https://all-in-one.plura.wiki">All-in-One Website</a></p>
 <!--</center>!-->
 
 ---
