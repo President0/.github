@@ -29,7 +29,7 @@ The features of PluralityCN are as follows:
 
 These are the core and most important websites in our community, gathering most of the essential information you want to know:
 
-- [**Our All-in-One Website [Highly Recommended]**](https://www.pluralitycn.wiki): Our latest website, gathering articles from all the previous sites such as **Tulpa Home** and **Plurality Home** (deprecated), with community figures like **Lemon Tiger** and **Good Man III** as part of the site team.
+- [**Our All-in-One Website [Highly Recommended]**](https://www.pluralitycn.wiki): Our latest website, gathering articles from all the previous sites such as **Tulpa Home** and **Plurality Home** (deprecated), with community figures like **Nighten** and **Good Man III** as part of the site team.
 
 - [**Tulpa Home**](https://tulpa.cn): A site established by **Good Man III** about ["Tulpa"](https://all-in-one.plura.wiki/archives/Tulpa%E4%BB%AC%EF%BC%9A%E5%88%9B%E9%80%A0%EF%BC%8C%E6%84%8F%E8%AF%86%EF%BC%8C%E4%B8%8E%E6%88%90%E5%A3%B0). It is one of the **oldest** and **most authoritative** sites in the Chinese plurality community.
 
