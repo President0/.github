@@ -4,7 +4,7 @@
 </div>
 
 <!--<center>!-->
-  <p align="center"><a href="./README_en.md">English</a> | <a href="https://guide.plura.wiki">社群导航</a> | <a href="https://all-in-one.plura.wiki">多合一网站</a></p>
+  <p align="center"><a href="../README_en.md">English</a> | <a href="https://guide.plura.wiki">社群导航</a> | <a href="https://all-in-one.plura.wiki">多合一网站</a></p>
 <!--</center>!-->
 
 ---
