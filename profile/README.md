@@ -23,8 +23,6 @@ PluralityCN 的特色体现在以下方面：
 
 - **包容：** 我们的社群是开放和包容的，欢迎任何人以尊重和理解的方式参与。我们努力为每个人提供一个安全和友好的环境，以分享经验和获得支持。
 
-Welcome to **PluralityCN**, the Chinese Plurality Community. We are a community dedicated to providing information and resources in the field of plurality and multiplicity. Our organization is committed to advancing understanding and support in the plurality domain.
-
 ---
 
 ## 我们的门户网站/帐号
