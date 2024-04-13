@@ -1,63 +1,73 @@
-<div align="center">
-  <img width="160" src="https://avatars.githubusercontent.com/u/140780823?s=200&v=4" alt="PluralityCN Logo"/>
-  <h1 align="center" href="
+<div align=center>
+  <img width=160 src="https://avatars.githubusercontent.com/u/140780823?s=200&v=4"  alt="PluralityCN Logo"/>
+  <h1 align="center" href="https://www.pluralitcycn.com">Chinese Plurality Community (PluralityCN)</h1> 
 </div>
 
 <!--<center>!-->
-  <p align="center"><a href="./profile/README.md">简体中文</a> | <a href="https://www.pluralitycn.com/">Our Offical Website</a> | <a href="https://portal.pluralitycn.com">Our Portal Website</a><!--</center>!-->
+  <p align="center"><a href="./profile/README.md">简体中文</a> | <a href="https://www.pluralitycn.com">Community Official Website</a> | <a href="https://portal.pluralitycn.com">Portal Site</a></p>
+<!--</center>!-->
 
 ---
 
-Welcome to the [**Chinese Plurality Community (PluralityCN)**](https://www.pluralitycn.com)!
+Welcome to [**Chinese Plurality Community**](https://www.pluralitycn.com) (PluralityCN), we are a community dedicated to providing information and resources in the field of plurality and multiplicity. Our organization is committed to advancing understanding and support in the field of plurality.
+
 ---
 
 ## Our Features
 
-The uniqueness of PluralityCN is reflected in the following aspects:
+PluralityCN's characteristics are reflected in the following aspects:
 
-- **Diversity:** We welcome all forms of plurality, including multiplicity, tulpas, and other forms of plurality. We believe that plurality is a diverse field that deserves respect and understanding.
+- **Diversity:** We welcome various forms of plurality, including multiplicity, Tulpas, and other forms of plurality. We firmly believe that plurality is a diverse field that deserves respect and understanding.
 
-- **Scientific:** We encourage scientific methods and research to deepen our understanding of plurality and multiplicity. We support and encourage scientific research and exploration of these topics.
+- **Scientific:** We encourage scientific methods and research to deepen the understanding of diversity and multiplicity. We support and encourage scientific research and exploration on these topics.
 
-- **Inclusiveness:** Our community is open and inclusive, welcoming anyone to participate in a respectful and understanding manner. We strive to provide a safe and friendly environment for everyone to share experiences and gain support.
+- **Inclusiveness:** Our community is open and inclusive, welcoming everyone to participate in a respectful and understanding manner. We strive to provide a safe and friendly environment for everyone to share experiences and receive support.
 
 ---
 
 ## Our Portal/Accounts
 
-These are the most central and important websites in our community, gathering most of the main information; everything you (or you all) want to know is here:
+These are the core and essential websites in our community, gathering most of the key information; everything you want to know is here:
 
-- [**PluralityCN Community Portal Website【Highly Recommended】**](Our latest website, which collects all [**Tulpa's Home**](
-- [**Tulpa's Home**](By [**Good Person III**](
-- [**Community Official Website**](**The community's official navigation site**. It gathers **domestic and international** plurality-related sites and provides access to **some public group chats**.
+- [**Chinese Plurality Community Portal Website [Highly Recommended]**](https://portal.pluralitycn.com): Our latest website, gathering access to all [**Tulpa's Home**](https://www.tulpa.cn), [**Plurality Encyclopedia**](https://wiki.pluralitycn.com), and other sites, **one-click access to all sites**.
 
-- [**Community Official Bilibili Account**](**The official Bilibili account of the community**. It has the community's official **news, activity videos, and community introductions**, etc.
+- [**Tulpa's Home**](https://tulpa.cn): A site established by [**Good Person III**](https://www.tulpa.cn) about ["Tulpa"](https://all-in-one.plura.wiki/archives/Tulpa%E4%BB%AC%EF%BC%9A%E5%88%9B%E9%80%A0%EF%BC%8C%E6%84%8F%E8%AF%86%EF%BC%8C%E4%B8%8E%E6%88%90%E5%A3%B0). It is one of the oldest and most authoritative sites in the Chinese plurality community.
 
-- [**Developer Homepage**](A webpage for developers and tech enthusiasts, providing project documentation and development information.
+- [**Community Official Website**](https://www.pluralitycn.com): **The community's official navigation site**. It brings together plurality-related sites from **domestic and international** sources and provides access to **some public group chats**.
 
-Our **static websites** are hosted in the following repositories and are accessible via GitHub Pages:
+- [**Community Official Bilibili Account**](https://bili.pluralitycn.wiki): **The community's official Bilibili account**. It features the community's **updates, event videos, and community introductions**, and more.
 
-- [Static Site Portal Static Website Repository](
-- [Tulpa's Home Static Website Repository](
-- [House of Plurality Static Website Repository](
-- [Plurality Encyclopedia Static Website Repository](
-- [Developer Homepage Static Website Repository](
-**Please visit our websites for more information and resources.**
+- [**Developer Homepage**](https://dev.pluralitycn.wiki): A webpage designed for developers and tech enthusiasts, providing project documentation and development information.
+
+Our **static websites** are hosted in the following repositories and can be accessed via GitHub Pages:
+
+- [Static Site Portal Static Website Repository](https://github.com/pluralitycn/pluralitycn.github.io)
+
+- [Tulpa's Home Static Website Repository](https://github.com/pluralitycn/TulpaHome)
+
+- [House of Plurality Static Website Repository](https://github.com/pluralitycn/PluralityHome)
+
+- [Plurality Encyclopedia Static Website Repository](https://github.com/pluralitycn/PluralityWiki)
+
+- [Developer Homepage Static Website Repository](https://github.com/pluralitycn/Developer-Website)
+
+**Feel free to visit our websites for more information and resources.**
 
 ---
 
-When visiting our websites, please recognize the official community domain names: **pluralitycn.com**,**tulpa.cn**,plura.wiki,pluralitycn.wiki,pluralitycn.info!
+While browsing the websites, please make sure to use the official community domain names: **pluralitycn.com**, **tulpa.cn**, plura.wiki, pluralitycn.wiki, pluralitycn.info!
 
 ---
 
 ## How to Contribute
 
-We welcome your contributions to help us improve and expand our community and websites. If you (or you all) wish to contribute, you (or you all) can take the following steps:
+We welcome contributions from everyone to help improve and expand our community and websites. If you wish to contribute, you can take the following steps:
 
-1. **Submit Pull Requests:** If you (or you all) have technical skills, you (or you all) can improve our websites and projects by submitting issues or Pull Requests to the respective repositories.
+1. **Submit Pull Request:** If you have technical skills, you can improve our websites and projects by submitting issues or Pull Requests to the respective repositories.
 
-2. **Contribute articles to the new site:** Our [**Wikipedia**](
-3. **Contact Us:** If you (or you all) have **other suggestions**, you (or you all) can contact us by sending an email to [admin@pluralitycn.wiki](mailto:admin@pluralitycn.wiki) or [pluralitycn@163.com](mailto:pluralitycn@163.com). We will **do our best to respond to your needs** and make necessary updates.
+2. **Contribute Articles to New Sites:** Our [**Wiki**](https://wiki.pluralitycn.com) is open for **all willing dictionary editors** to register; you can **create an account** and contact us at [**pluralitycn@163.com**](mailto:pluralitycn@163.com) to get **editing permissions** and write your articles.
+
+3. **Contact Us:** If you have **other suggestions**, you can contact us by sending an email to [admin@pluralitycn.wiki](mailto:admin@pluralitycn.wiki) or [pluralitycn@163.com](mailto:pluralitycn@163.com). We will **do our best to respond to your needs** and make necessary updates.
 
 We **welcome your participation and support**!
 
@@ -65,7 +75,7 @@ We **welcome your participation and support**!
 
 ## Learn More
 
-If you (or you all) want to **know more** about our community and projects, you (or you all) can **visit our portal site** or **contact us via email**.
+If you want to **learn more** about our community and projects, you can **visit our portal website** or **contact us via email**.
 
-- [Visit our portal website](- Contact us via email: [admin@pluralitycn.wiki](mailto:admin@pluralitycn.wiki) or [pluralitycn@163.com](mailto:pluralitycn@163.com)
-
+- [Visit our portal website](https://portal.pluralitycn.com)
+- Contact us via email: [admin@pluralitycn.wiki](mailto:admin@pluralitycn.wiki) or [pluralitycn@163.com](mailto:pluralitycn@163.com)
