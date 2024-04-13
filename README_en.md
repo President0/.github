@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="160" src=" alt="PluralityCN Logo"/>
+  <img width="160" src="https://avatars.githubusercontent.com/u/140780823?s=200&v=4" alt="PluralityCN Logo"/>
   <h1 align="center" href="
 </div>
 
